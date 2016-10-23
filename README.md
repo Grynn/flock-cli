@@ -40,6 +40,6 @@ The following options are supported:
   --flockml <ARG1>   	Specify Flock Markup language
   --image <ARG1>     	Specify URL of the image
 
-
 ```
-
+----
+PS: In case you can't recall what a particular unix command does, this app also contains a bot (flock-cli Bot), which responds to unix commands with their man pages. 
