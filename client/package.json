@@ -1,0 +1,20 @@
+{
+  "name": "flock-cli",
+  "version": "0.0.1",
+  "description": "Command line utility for flock",
+  "main": "index.js",
+  "author": "avishwa18@gmail.com",
+  "license": "MIT",
+  "bin": {
+    "flock": "index.js"
+  },
+  "dependencies": {
+    "dropbox": "^2.4.0",
+    "express": "^4.14.0",
+    "flockos": "flockchat/flockos-node-sdk#0.0.2",
+    "inquirer": "^1.2.2",
+    "request": "^2.75.0",
+    "stdio": "^0.2.7",
+    "terminal-menu": "^2.1.1"
+  }
+}
