@@ -1,6 +1,6 @@
 {
   "name": "flock-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Command line utility for flock",
   "main": "index.js",
   "author": "avishwa18@gmail.com",
