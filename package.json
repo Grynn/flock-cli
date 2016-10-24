@@ -8,6 +8,7 @@
   "bin": {
     "flock": "index.js"
   },
+  "repository": "https://github.com/vishwaabhinav/flock-cli",
   "dependencies": {
     "dropbox": "^2.4.0",
     "express": "^4.14.0",
