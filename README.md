@@ -1,3 +1,16 @@
+Want to use this as basis for a new cli-app 'butler'.
+Should be able to say 'butler {item}', which sends a Flock message to {username} based on template. 
+Example template: "Hi, Can you get me {item}. Seat: {seat}"
+
+Invocation:
+* Alfred workflow that can call butler
+* command line
+* scheduled time every day with pre-specified {item}
+
+Additional:
+* butler list all requests
+* butler cancel 
+
 # flock-cli
 Command line interface for flock messaging
 
